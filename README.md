@@ -14,6 +14,7 @@ This assignment investigates simulating returns for varying assets using either 
 `requirements.txt`: All Python modules used in this assignment<br>
 `programming_assignment_2.ipynb`: Code used to develop the predictive model<br>
 `programming_assignment_2.html`: HTML version of the notebook (better viewing)<br>
+`programming_assignment_2.pdf`: Research report<br>
 `PG_historical_data.csv`: Historical data of the $PG ticker from 2005-2025<br>
 `KO_historical_data.csv`: Historical data of the $KO ticker from 2005-2025<br>
 `PEP_historical_data.csv`: Historical data of the $PEP ticker from 2005-2025<br>
